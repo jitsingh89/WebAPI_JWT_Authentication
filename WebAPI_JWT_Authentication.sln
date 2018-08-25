@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI_JWT_Authentication", "WebAPI_JWT_Authentication\WebAPI_JWT_Authentication.csproj", "{A7CB4D5A-2CCF-461D-A416-2C12160F461B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI_JWT_Authentication.Tests", "WebAPI_JWT_Authentication.Tests\WebAPI_JWT_Authentication.Tests.csproj", "{8C69597D-6710-4DE7-B655-C83D21AA0C42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7CB4D5A-2CCF-461D-A416-2C12160F461B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7CB4D5A-2CCF-461D-A416-2C12160F461B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7CB4D5A-2CCF-461D-A416-2C12160F461B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7CB4D5A-2CCF-461D-A416-2C12160F461B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C69597D-6710-4DE7-B655-C83D21AA0C42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C69597D-6710-4DE7-B655-C83D21AA0C42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C69597D-6710-4DE7-B655-C83D21AA0C42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C69597D-6710-4DE7-B655-C83D21AA0C42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04290834-4F5B-4851-AB17-39D62A7C76EB}
+	EndGlobalSection
+EndGlobal
